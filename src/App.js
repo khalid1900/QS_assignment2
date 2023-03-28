@@ -7,8 +7,8 @@ import CustomerReview from "./components/CustomerReview";
 function App() {
   return (
     <div className="App" >
-<CustomerReview/>
-    
+      <CustomerReview />
+
     </div>
   );
 }
